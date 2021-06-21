@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Bigger projects**
 
-- 👨‍💻 All of my projects are available at [Anmolpreeet](https://github.com/Anmolpreeet)
+- 👨‍💻 All of my projects are available at [@github](https://github.com/Anmolpreeet?tab=repositories)
 
 - 📫 How to reach me **info.anmol1313@gmail.com**
 
